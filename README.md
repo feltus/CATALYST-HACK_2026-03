@@ -1,17 +1,33 @@
 # CATALYST HACKATHON (2026-03-06)::: Introducing the Palmetto2 bioLLM infrastructure prototype.
 
 ## Invitees 
-RCD: Carl E Ehrett <cehrett@clemson.edu>  
-RCD: Doug Dawson <dndawso@clemson.edu>  
-RCD: Zachary Ian Gerstner <zigerst@clemson.edu>  
-BIO: Xusheng Ai <xai@clemson.edu>   
-BIO: Tzu-Yu Chu <tzuyuc@clemson.edu>  
-BIO: Gabriel Serrano <gserran@clemson.edu>  
-BIO: Sarah Moorshead <smoorsh@g.clemson.edu>  
-BIO: Maura Korte <mjkorte@clemson.edu>  
-BIO: Macy Rietz <mrietz@g.clemson.edu>  
-BIO: Varun Sethi <vsethi@g.clemson.edu>  
-BIO: Alex Feltus <ffeltus@clemson.edu>  
+### RCDE
+Carl Ehrett <cehrett@clemson.edu>
+Doug Dawson <dndawso@clemson.edu>
+Zachary Gerstner <zigerst@clemson.edu>
+Jill Gemmill <gemmill@clemson.edu>
+
+### Biologists
+Alex Feltus <ffeltus@clemson.edu>
+Xusheng Ai <xai@clemson.edu> 
+Tzu-Yu Chu <tzuyuc@clemson.edu>
+Gabriel Serrano <gserran@clemson.edu>
+Varun Sethi <vsethi@g.clemson.edu>
+Sarah Moorshead <smoorsh@g.clemson.edu> 
+Macy Rietz <mrietz@g.clemson.edu>
+Maura Korte <mjkorte@clemson.edu>
+William Boone <wbboone@g.clemson.edu>
+
+Marc Russel Birtwistle <mbirtwi@clemson.edu>
+Jonah Huggins <jrhuggi@g.clemson.edu>
+Afrid <ashirse@g.clemson.edu> 
+Amna Islam <amnai@clemson.edu> 
+Atalanta Harley-Gasaway <amhrnnd@clemson.edu>
+
+Siyu Huang <siyuh@clemson.edu>
+
+Melissa Smith <smithmc@clemson.edu>
+Adam Niemczura  <aniemcz@clemson.edu>
 
 ## Background 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem (Hub-Spoke model) on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST--possible system name).
@@ -31,21 +47,28 @@ Feltus will be in Zoom 9am to noon each day.
 Discord server invite: https://discord.gg/4QU39zjs
 Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923
 
-## Pre-Hack  
+## Pre-workshop tasks (User)
 1.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu)
 2.  Install codex with https://git.rcd.clemson.edu/biollms/biocodex
 3.  Run some test prompts.
 
-## Hackathon Charge 
-You have two choices:
+## Pre-workshop tasks (Admin)
+1. Tool inventory, format and installation documentation
+2. Log parsing documentation.
+3. Genomic data access documentation
+4. General biological workflow documentation for a Python/bash iterate user:  
+    * ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
+    * Working Directory structure (input_data, code, results, methods, logs) 
 
+## Workshop Charge 
+You have two choices:
 1. Reproduce a recent task/project from your research using bioLLM.
 2. Develop a new tool for bioLLM to access.
 
-In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as issues at https://git.rcd.clemson.edu/biollms/biocodex. 
+In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as 
 
 ## Issue Framework
-Description of the task and problem  
+FReport issues at issues at https://git.rcd.clemson.edu/biollms/biocodex.  
 What LLM model did you use?
 What was your prompt 
 Paste errors or description of incorrect results.
@@ -56,14 +79,6 @@ https://github.com/feltus/InSilicoDiseaseHypothesis
 https://github.com/feltus/lab-drug-targeting  
 https://github.com/feltus/identifying_differentially_expressed_genes  
 https://github.com/feltus/biohackathon-finding-dna-eqtls-underlying-a-disease  
-
-## Available Tools 
-Genomics.py --- biomni
-DNAbert2  foundation model
-Zach's Pipeline (TBD)  
-#(Docking) --- biomni  
-#Genomics.py --- biomni
-Build your own tool!  The tool standard is defined here: TBD.
 
 ## Rewards 
 (1) Early access to Palmetto2 LLM infrastructure with high level tech support.
