@@ -2,32 +2,32 @@
 
 ## Invitees 
 ### RCDE
-Carl Ehrett <cehrett@clemson.edu>
-Doug Dawson <dndawso@clemson.edu>
-Zachary Gerstner <zigerst@clemson.edu>
-Jill Gemmill <gemmill@clemson.edu>
+Carl Ehrett <cehrett@clemson.edu>  
+Doug Dawson <dndawso@clemson.edu>  
+Zachary Gerstner <zigerst@clemson.edu>  
+Jill Gemmill <gemmill@clemson.edu>  
 
 ### Biologists
-Alex Feltus <ffeltus@clemson.edu>
-Xusheng Ai <xai@clemson.edu> 
-Tzu-Yu Chu <tzuyuc@clemson.edu>
-Gabriel Serrano <gserran@clemson.edu>
-Varun Sethi <vsethi@g.clemson.edu>
-Sarah Moorshead <smoorsh@g.clemson.edu> 
-Macy Rietz <mrietz@g.clemson.edu>
-Maura Korte <mjkorte@clemson.edu>
-William Boone <wbboone@g.clemson.edu>
+Alex Feltus <ffeltus@clemson.edu>  
+Xusheng Ai <xai@clemson.edu>  
+Tzu-Yu Chu <tzuyuc@clemson.edu>  
+Gabriel Serrano <gserran@clemson.edu>  
+Varun Sethi <vsethi@g.clemson.edu>  
+Sarah Moorshead <smoorsh@g.clemson.edu>   
+Macy Rietz <mrietz@g.clemson.edu>  
+Maura Korte <mjkorte@clemson.edu>  
+William Boone <wbboone@g.clemson.edu>  
 
-Marc Russel Birtwistle <mbirtwi@clemson.edu>
-Jonah Huggins <jrhuggi@g.clemson.edu>
-Afrid <ashirse@g.clemson.edu> 
-Amna Islam <amnai@clemson.edu> 
-Atalanta Harley-Gasaway <amhrnnd@clemson.edu>
+Marc Russel Birtwistle <mbirtwi@clemson.edu>  
+Jonah Huggins <jrhuggi@g.clemson.edu>  
+Afrid <ashirse@g.clemson.edu>   
+Amna Islam <amnai@clemson.edu>   
+Atalanta Harley-Gasaway <amhrnnd@clemson.edu>  
 
-Siyu Huang <siyuh@clemson.edu>
+Siyu Huang <siyuh@clemson.edu>  
 
-Melissa Smith <smithmc@clemson.edu>
-Adam Niemczura  <aniemcz@clemson.edu>
+Melissa Smith <smithmc@clemson.edu>  
+Adam Niemczura  <aniemcz@clemson.edu>  
 
 ## Background 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem (Hub-Spoke model) on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST--possible system name).
