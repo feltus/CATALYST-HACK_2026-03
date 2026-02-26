@@ -28,6 +28,7 @@ Siyu Huang <siyuh@clemson.edu>
 
 Melissa Smith <smithmc@clemson.edu>  
 Adam Niemczura  <aniemcz@clemson.edu>  
+Oyinlolu Odetoye <oodetoy@clemson.edu>
 
 ### Materials Scientists
 Dilpuneet Aidhy <daidhy@clemson.edu>
