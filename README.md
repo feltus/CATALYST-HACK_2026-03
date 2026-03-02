@@ -53,7 +53,7 @@ There will be synchronous Zoom meeting at 9am-10am https://clemson.zoom.us/j/945
 Feltus will be in Zoom 9am to noon each day.   
 
 ## Collaboration. 
-Discord server invite: [https://discord.gg/4QU39zjs](https://discord.gg/QXJ3eNgq)  
+Discord server invite:  https://discord.gg/QXJ3eNgq
 Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923
 
 ## Pre-workshop tasks (User)
