@@ -30,9 +30,9 @@ Melissa Smith <smithmc@clemson.edu>
 Adam Niemczura  <aniemcz@clemson.edu>  
 Oyinlolu Odetoye <oodetoy@clemson.edu>
 
-** Cameron Brown <cbrow37@g.clemson.edu>
-** David F Clayton <dfclayt@clemson.edu>
-** Antonino Malacrino <amalacr@clemson.edu>
+*Cameron Brown <cbrow37@g.clemson.edu>  
+*David F Clayton <dfclayt@clemson.edu>  
+*Antonino Malacrino <amalacr@clemson.edu>  
 
 ### Materials Scientists
 Dilpuneet Aidhy <daidhy@clemson.edu>  
