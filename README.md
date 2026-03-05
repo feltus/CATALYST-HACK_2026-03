@@ -22,12 +22,12 @@ Jonah Huggins <jrhuggi@g.clemson.edu>
 Afrid <ashirse@g.clemson.edu>   
 Amna Islam <amnai@clemson.edu>   
 Atalanta Harley-Gasaway <amhrnnd@clemson.edu>  
-Siyu Huang <siyuh@clemson.edu>  
 Cameron Brown <cbrow37@g.clemson.edu>  
 David F Clayton <dfclayt@clemson.edu>  
 Antonino Malacrino <amalacr@clemson.edu>  
 
 ### Computer Scientists & Engineers
+Siyu Huang <siyuh@clemson.edu>  
 Melissa Smith <smithmc@clemson.edu>  
 Adam Niemczura  <aniemcz@clemson.edu>  
 Oyinlolu Odetoye <oodetoy@clemson.edu>
@@ -54,8 +54,8 @@ There will be synchronous Zoom meeting at 9am-10am https://clemson.zoom.us/j/945
 Feltus will be in Zoom 9am to noon each day.   
 
 ## Pre-workshop tasks (User)
-1.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu)
-2. Install codex on Palmetto2 (https:\\ondemand.rcd.clemson.edu) with using these instructions: https://git.rcd.clemson.edu/biollms/biocodex
+1. Obtain OpenAI account at https://openai.com/ with your clemson.edu email (not g.clemson.edu)
+2. Install codex on Palmetto2 https://ondemand.rcd.clemson.edu using these instructions: https://git.rcd.clemson.edu/biollms/biocodex
 3. Run some test prompts (Hello World examples below).  
 4. Join Discord. Discord server invite:  https://discord.gg/QXJ3eNgq  (Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923)  
 
