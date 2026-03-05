@@ -78,10 +78,10 @@ You have two choices:
 
 In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as 
 
-###Hello World Prompts
+## Hello World Prompts
 
 ### PROMPT001,PROMPT002: System information  
-In the context of this Palmetto2 "bioLLM" system, please provide an overview of agentic AI. Also save an image of the palmetto2 agent architecture (components + data flow + minimal implementation stack).
+In the context of this Palmetto2 "bioLLM" system, please provide an overview of agentic AI. Also save an image of the palmetto2 agent architecture (components + data flow + minimal implementation stack).  
 What tools are available to you on this Palmetto2 "bioLLM" system?
 
 
