@@ -68,7 +68,7 @@ Test the system: Reproduce a recent task/project from your research using bioLLM
 In the context of this Palmetto2 "bioLLM" system, please provide an overview of agentic AI. Also save an image of the palmetto2 agent architecture (components + data flow + minimal implementation stack).  
 What tools are available to you on this Palmetto2 "bioLLM" system?
 
-### PROMPT003: Download human genme data files for local use
+### PROMPT003: Download human genome data files for local use
 PURPOSE:
 I want to download genomic input data for humans.  
 TASK:  
@@ -77,7 +77,7 @@ hg38 primary genome assembly
 hg38 cDNA and peptide sequences  
 hg38 GTF file  
 
-### PROMPT004: Download human gene idenifier mapping file
+### PROMPT004: Download human gene identifier mapping file
 PURPOSE:  
 I want to download a gene identifier mapping file for humans.  
 TASK:  
