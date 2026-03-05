@@ -1,4 +1,4 @@
-# CATALYST HACKATHON (2026-03-06)::: Introducing the Palmetto2 bioLLM infrastructure prototype.
+# CATALYST MINI-HACKATHON (2026-03-06)::: Introducing the Palmetto2 bioLLM infrastructure prototype.
 
 ## Invitees 
 ### CCIT/RCD Engineers
@@ -50,40 +50,23 @@ bioLLM builds upon recent advances in biological foundation models, Stanford's B
 In order to facilitate usage and harden this system, we will be hosting hackathons in 2026 with exclusive access to alpha test bioLLM ecosystem.  The first hackathon will be a small group of hackers that will test prompt the agentic bioLLM system to perform scientific discovery, usage documentation, and identify gaps in the system.  
 
 ## When & Where
-The second Workshop will be a drop in on March 6(Fri) from 9am to noon followed by Discord collaboration for 7 days.
 There will be synchronous Zoom meeting at 9am-10am https://clemson.zoom.us/j/9452064261   
 Feltus will be in Zoom 9am to noon each day.   
 
-## Collaboration. 
-Discord server invite:  https://discord.gg/QXJ3eNgq
-Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923  
-
 ## Pre-workshop tasks (User)
 1.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu)
-2.  Install codex with https://git.rcd.clemson.edu/biollms/biocodex
-3.  Run some test prompts.
-
-## Pre-workshop tasks (Admin)
-1. Tool inventory, format and installation documentation
-2. Log parsing documentation.
-3. Genomic data access documentation
-4. General biological workflow documentation for a Python/bash iterate user:  
-    * ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
-    * Working Directory structure (input_data, code, results, methods, logs) 
+2. Install codex on Palmetto2 (https:\\ondemand.rcd.clemson.edu) with using these instructions: https://git.rcd.clemson.edu/biollms/biocodex
+3. Run some test prompts (Hello World examples below).  
+4. Join Discord. Discord server invite:  https://discord.gg/QXJ3eNgq  (Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923)  
 
 ## Workshop Charge 
-You have two choices:
-1. Reproduce a recent task/project from your research using bioLLM.
-2. Develop a new tool for bioLLM to access.
-
-In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as 
+Test the system: Reproduce a recent task/project from your research using bioLLM.
 
 ## Hello World Prompts
 
 ### PROMPT001,PROMPT002: System information  
 In the context of this Palmetto2 "bioLLM" system, please provide an overview of agentic AI. Also save an image of the palmetto2 agent architecture (components + data flow + minimal implementation stack).  
 What tools are available to you on this Palmetto2 "bioLLM" system?
-
 
 ### PROMPT003: Download human genme data files for local use
 PURPOSE:
@@ -108,7 +91,7 @@ chromosome start
 chromosome stop  
 
 ## Issue Framework
-FReport issues at issues at https://git.rcd.clemson.edu/biollms/biocodex.  
+Report any big/small issues at issues at https://git.rcd.clemson.edu/biollms/biocodex.  
 What LLM model did you use?
 What was your prompt 
 Paste errors or description of incorrect results.
