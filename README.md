@@ -1,7 +1,7 @@
 # CATALYST HACKATHON (2026-03-06)::: Introducing the Palmetto2 bioLLM infrastructure prototype.
 
 ## Invitees 
-### RCDE
+### CCIT/RCD Engineers
 Carl Ehrett <cehrett@clemson.edu>  
 Doug Dawson <dndawso@clemson.edu>  
 Zachary Gerstner <zigerst@clemson.edu>  
@@ -17,22 +17,20 @@ Sarah Moorshead <smoorsh@g.clemson.edu>
 Macy Rietz <mrietz@g.clemson.edu>  
 Maura Korte <mjkorte@clemson.edu>  
 William Boone <wbboone@g.clemson.edu>  
-
 Marc Russel Birtwistle <mbirtwi@clemson.edu>  
 Jonah Huggins <jrhuggi@g.clemson.edu>  
 Afrid <ashirse@g.clemson.edu>   
 Amna Islam <amnai@clemson.edu>   
 Atalanta Harley-Gasaway <amhrnnd@clemson.edu>  
-
 Siyu Huang <siyuh@clemson.edu>  
+Cameron Brown <cbrow37@g.clemson.edu>  
+David F Clayton <dfclayt@clemson.edu>  
+Antonino Malacrino <amalacr@clemson.edu>  
 
+### Computer Scientists & Engineers
 Melissa Smith <smithmc@clemson.edu>  
 Adam Niemczura  <aniemcz@clemson.edu>  
 Oyinlolu Odetoye <oodetoy@clemson.edu>
-
-*Cameron Brown <cbrow37@g.clemson.edu>  
-*David F Clayton <dfclayt@clemson.edu>  
-*Antonino Malacrino <amalacr@clemson.edu>  
 
 ### Materials Scientists
 Dilpuneet Aidhy <daidhy@clemson.edu>  
@@ -79,6 +77,35 @@ You have two choices:
 2. Develop a new tool for bioLLM to access.
 
 In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as 
+
+###Hello World Prompts
+
+### PROMPT001,PROMPT002: System information  
+In the context of this Palmetto2 "bioLLM" system, please provide an overview of agentic AI. Also save an image of the palmetto2 agent architecture (components + data flow + minimal implementation stack).
+What tools are available to you on this Palmetto2 "bioLLM" system?
+
+
+### PROMPT003: Download human genme data files for local use
+PURPOSE:
+I want to download genomic input data for humans.  
+TASK:  
+Please write a SLURM script called 'download-human-genome.slurm' to download key human genome files.  Use genome build hg38. Please use ENSEMBL e.g. 'https://ftp.ensembl.org/pub/release-115/fasta/homo_sapiens/dna/' to download these files and save in a directory called 'human_genome':  
+hg38 primary genome assembly   
+hg38 cDNA and peptide sequences  
+hg38 GTF file  
+
+### PROMPT004: Download human gene idenifier mapping file
+PURPOSE:  
+I want to download a gene identifier mapping file for humans.  
+TASK:  
+Please write a SLURM script called 'download-human-gene-translator.slurm' that uses the Biomart API 'https://www.ensembl.org/info/data/biomart/index.html' to write a file called 'human-gene-name-map.csv' in a directory called 'human_genome' with these hese comma-separated fields:  
+ENSEMBL gene identifier  
+ENSEMBL transcript identifier  
+ENSEMBL protein identifier  
+Official gene name (e.g. BRCA1)  
+chromosome name  
+chromosome start   
+chromosome stop  
 
 ## Issue Framework
 FReport issues at issues at https://git.rcd.clemson.edu/biollms/biocodex.  
