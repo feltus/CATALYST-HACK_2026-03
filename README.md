@@ -39,6 +39,7 @@ ORIYOMI RASAK OPETUBO <oopetub@clemson.edu>
 Suyash Varshney <suyashv@clemson.edu>  
 mjzakrz <mjzakrz@g.clemson.edu>  
 Sriram Vishnubhotla <svishnu@clemson.edu>  
+Ali Azarmi <aazarmi@clemson.edu>
 
 ## Background 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem (Hub-Spoke model) on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST--possible system name).
